@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^11.9.1",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "npm": "^11.2.0",
+    "tiktok-live-connector": "^1.2.3"
+  }
+}
